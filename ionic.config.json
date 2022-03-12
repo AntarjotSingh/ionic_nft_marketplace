@@ -1,0 +1,7 @@
+{
+  "name": "ionic_nft_marketplace",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
